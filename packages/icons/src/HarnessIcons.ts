@@ -1171,7 +1171,6 @@ type HarnessIconName =
   | 'openshift-params'
   | 'openshift'
   | 'other-workload'
-  | 'pdc-inverse'
   | 'pdc'
   | 'pending'
   | 'pipeline-advanced'
