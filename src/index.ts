@@ -226,3 +226,4 @@ export {
   MultiStepProgressIndicatorProps
 } from './components/MultiStepProgressIndicator/MultiStepProgressIndicator'
 export * from '@harness/design-system'
+console.log('hello world')
