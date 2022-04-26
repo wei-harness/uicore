@@ -694,6 +694,7 @@ import University from './university.svg'
 import Up from './up.svg'
 import UpgradeBolt from './upgrade-bolt.svg'
 import UploadBox from './upload-box.svg'
+import UserHelpPanel from './user_help_panel.svg'
 import Utility from './utility.svg'
 import Variable from './variable.svg'
 import ViewJson from './view-json.svg'
@@ -1397,6 +1398,7 @@ type HarnessIconName =
   | 'up'
   | 'upgrade-bolt'
   | 'upload-box'
+  | 'user_help_panel'
   | 'utility'
   | 'variable'
   | 'view-json'
@@ -2100,6 +2102,7 @@ const HarnessIcons: KVO<ElementType> = {
   up: Up,
   'upgrade-bolt': UpgradeBolt,
   'upload-box': UploadBox,
+  user_help_panel: UserHelpPanel,
   utility: Utility,
   variable: Variable,
   'view-json': ViewJson,
