@@ -45,7 +45,7 @@ function Icon(props: IconProps): React.ReactElement {
         {...omitStyledProps(props, 'name', 'size')}
         className={styledClasses(props)}
         icon={name as BIconName}
-        iconSize={size}
+        iconSize={size as number}
       />
     )
   }
