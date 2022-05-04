@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.9.0](https://github.com/harness/uicore/compare/v2.68.0...v1.9.0) (2022-05-04)
+
+
+### Others
+
+* **release:** 1.4.0 ([cf16ca5](https://github.com/harness/uicore/commit/cf16ca55f7dd1bdcf1caf1d870067d3e86770a89))
+* **release:** 1.6.0 ([5f1cf62](https://github.com/harness/uicore/commit/5f1cf6285dd29b0dd855af426498650ac759f90e))
+* **release:** 1.8.0 ([6d218a9](https://github.com/harness/uicore/commit/6d218a9ca79cce29e925d1ada90b1102280a672c))
+
 ## [1.8.0](https://github.com/harness/uicore/compare/v2.68.0...v1.8.0) (2022-05-04)
 
 
